@@ -25,7 +25,8 @@ html {
 }
 
 
-footer { border-top:1px solid #ccc; height: 30px; font-size:11px; line-height:26px; color:#999; position: absolute; }
+footer { border-top:1px solid #ccc;font-size:11px; line-height:26px; color: #999; position: absolute; left: 0; bottom: 0; height: 30px; width: 100%; overflow:hidden;}
+
 footer a { color:#999999; }
 footer a:hover { color:#105CB6; }
 footer ul li { display:inline; list-style:none; padding-left:20px; }
