@@ -110,6 +110,12 @@ th { font-weight: bold; }
 td { text-align: left; }
 tfoot { font-style: italic; }
 
+br {
+  content: " ";
+  display: block;
+  margin: 10px;
+}
+
 /* Print */
 @media print {
 	* {
